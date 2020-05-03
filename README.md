@@ -10,7 +10,7 @@ Rock, paper and scissor dataset has been used for this work. Here is a few-liner
     https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip \
     -O /tmp/rps-test-set.zip
     
- Test data : rps-validation.zip
+ Test data : rps-validation
     
 citation: 
 
